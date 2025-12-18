@@ -1,0 +1,14 @@
+#test file
+test.log
+
+#desktop file
+Desktop.ini
+
+# Ignore system files
+Thumbs.db
+
+# Ignore temporary files
+sample.temp
+
+# Ignore swap files
+demo.swp
